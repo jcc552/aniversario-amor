@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Para [Su Nombre] ❤️</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Nunito:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header class="header">
+        <h1>Feliz Aniversario, [Su Nombre]</h1>
+        <p>Una pequeña historia sobre nosotros...</p>
+    </header>
+
+    <div class="timeline">
+
+        <div class="container left">
+            <div class="content">
+                <h2>El Comienzo</h2>
+                <p class="date">15 Octubre 2022</p>
+                <img src="img/foto1.jpg" alt="Nuestra primera foto">
+                <p>Aquí es donde todo empezó. Todavía recuerdo lo nerviosos que estábamos...</p>
+            </div>
+        </div>
+
+        <div class="container right">
+            <div class="content">
+                <h2>Nuestro Primer Viaje</h2>
+                <p class="date">20 Enero 2023</p>
+                <img src="img/foto2.jpg" alt="Viaje a la playa">
+                <p>Ese fin de semana fue increíble. ¿Recuerdas lo que nos reímos con...?</p>
+            </div>
+        </div>
+
+        <div class="container left">
+            <div class="content">
+                <h2>Hasta el infinito</h2>
+                <p class="date">Hoy</p>
+                <img src="img/foto3.jpg" alt="Nosotros ahora">
+                <p>Gracias por ser mi compañera de código y de vida. Te quiero.</p>
+            </div>
+        </div>
+
+    </div>
+
+    <footer>
+        <p>Hecho con ❤️ y mucho código por [Tu Nombre]</p>
+    </footer>
+
+</body>
+</html>
